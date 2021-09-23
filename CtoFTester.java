@@ -1,6 +1,6 @@
-// the functuions should have one parameter
+// the functions should have one parameter
 // temp which should be double type
-// The function should return a double, the temperature
+// The function should return a double, the new temperature
 
 public class CtoFTester{
     public static void main(String[] args){
